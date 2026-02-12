@@ -316,3 +316,11 @@ h2 {
     transform: scale(1.05);
     background: var(--secondary-color);
 } 
+
+.final-photo {
+  margin-top: 25px;
+  max-width: 320px;
+  width: 90%;
+  border-radius: 18px;
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.25);
+}
